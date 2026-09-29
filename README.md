@@ -8,13 +8,13 @@ computer engineering @ UPRM · dec 2026
 
 </div>
 
-## 0x00 · about
+## About
 
 Computer engineer who loves solving problems, especially the ones without an obvious answer. I enjoy connecting with people, leading teams, and turning difficult challenges into working solutions.
 
 I'm drawn to software, embedded systems, FPGAs, and networks, and to building technology that solves real-world problems. Runs reliably on coffee and unfinished side projects.
 
-## 0x01 · experience
+## Experience
 
 **L3Harris** · <sub>AI / machine learning</sub><br>
 Trained an internal AI model that reached 85% prediction accuracy.
@@ -28,7 +28,7 @@ Built a risk-management dashboard with SharePoint Framework and proposed a new r
 **Aon Robotics** · <sub>co-captain</sub><br>
 Led autonomous routine development in C++ / PROS. Excellence Award at VEX Worlds 2023.
 
-## 0x02 · projects
+## Projects
 
 <table>
 <tr>
@@ -51,16 +51,11 @@ The classic memory game running on FPGA hardware, built with Xilinx Vivado.
 </tr>
 </table>
 
-## 0x03 · skills
+## Skills
 
 <kbd>Python</kbd> <kbd>C / C++</kbd> <kbd>Verilog</kbd> <kbd>PyTorch</kbd> <kbd>Git</kbd> <kbd>Linux</kbd> <kbd>Xilinx Vivado</kbd>
 
-## 0x04 · contact
+## Contact
 
-```console
-$ traceroute isander
- 1  github.com/YOUR-USERNAME        you are here
- 2  your-username.github.io         socials · résumé · contact
-```
-
-→ **[your-username.github.io](https://your-username.github.io)**
+Socials, résumé and ways to reach me:<br>
+**[your-username.github.io](https://your-username.github.io)**
