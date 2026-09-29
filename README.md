@@ -1,16 +1,26 @@
-## Hi there 👋
+```
+Isander Paris
+computer engineering @ UPRM · dec 2026
+────────────────────────────────────────────────────────────────
+```
 
-<!--
-**IsanderParis/IsanderParis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DESCRIPTION**
+Computer engineer who loves solving problems, especially the ones without an obvious answer. I enjoy connecting with people, leading teams, and turning difficult challenges into working solutions.
 
-Here are some ideas to get you started:
+I'm drawn to software, embedded systems, FPGAs, and networks, and to building technology that solves real-world problems. Runs reliably on coffee and unfinished side projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**EXPERIENCE**
+- Trained an internal AI model at **L3Harris**, reaching 85% prediction accuracy
+- Led UAS + machine learning research at **MIT Lincoln Laboratory** to detect structural damage after natural disasters (92% accuracy, Python / PyTorch)
+- Built a risk-management dashboard at **CIRACET** with SharePoint Framework
+- Co-captain of **Aon Robotics**: autonomous routines in C++ / PROS, Excellence Award at VEX Worlds 2023
+
+**PROJECTS**
+- [sparc-pipeline](https://github.com/YOUR-USERNAME/sparc-pipeline) — pipelined SPARC-architecture processor designed in Verilog
+- [simon-says-fpga](https://github.com/YOUR-USERNAME/simon-says-fpga) — the classic memory game running on FPGA hardware, built with Xilinx Vivado
+
+**SKILLS**
+Python · C / C++ · Verilog · PyTorch · Git · Linux · embedded systems · FPGAs · networks
+
+**CONTACT**
+Socials, résumé and more at **[your-username.github.io](https://your-username.github.io)**
